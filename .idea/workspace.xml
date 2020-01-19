@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f0ee32c-fc35-4bcd-9071-6f37e900e826" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/ManyPeopleDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/p0-fall19/PersonDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p0-fall19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p0-spring20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/p0-spring20/PersonDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/p0-spring20/PersonDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManyPeopleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManyPeopleDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PersonDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonDriver.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,24 +32,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WAfnWZphomWTHvtzo60rWSAtAQ" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/p0-spring20/ManyPeopleDriver.class" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.ManyPeopleDriver">
     <configuration name="ManyPeopleDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -70,6 +66,18 @@
         <item itemvalue="Application.PersonDriver" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,5 +104,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="20" key="#Project_Structure" timestamp="1579385050767">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="234" y="20" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1579385050767" />
+    <state x="422" y="117" key="FileChooserDialogImpl" timestamp="1579385382964">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1579385382964" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1579469150088">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1579469150088" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1579469150088">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1579469150088" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1579469150088">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1579469150088" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1579469150088">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1579469150088" />
+    <state x="303" y="41" key="search.everywhere.popup" timestamp="1579385017723">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1579385017723" />
   </component>
 </project>
